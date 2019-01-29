@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "RHELforGluster", "AzureResourceGroup4\RHELforGluster.deployproj", "{A7EE8035-CE49-47A4-8183-104EFB18702C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EE8035-CE49-47A4-8183-104EFB18702C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EE8035-CE49-47A4-8183-104EFB18702C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EE8035-CE49-47A4-8183-104EFB18702C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EE8035-CE49-47A4-8183-104EFB18702C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F05379E9-8CF3-42EC-B7CA-4FD4DDADDD54}
+	EndGlobalSection
+EndGlobal
